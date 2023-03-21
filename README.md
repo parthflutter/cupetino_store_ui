@@ -20,11 +20,11 @@ samples, guidance on mobile development, and a full API reference.
 </p>
 
 <p>
-<img src=https://user-images.githubusercontent.com/116251590/226661257-dde68c5f-eb75-4e11-ba76-2abd5ad43aa8.PNG">
+<img src="https://user-images.githubusercontent.com/116251590/226661257-dde68c5f-eb75-4e11-ba76-2abd5ad43aa8.PNG">
 </p>
 
 
 <p>
-<img src=https://user-images.githubusercontent.com/116251590/226661670-fe4386f2-da1d-4977-8adb-ead6ce6fc320.PNG">
+<img src="https://user-images.githubusercontent.com/116251590/226661670-fe4386f2-da1d-4977-8adb-ead6ce6fc320.PNG">
 
 </p>
